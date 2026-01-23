@@ -9,6 +9,7 @@ Ce repo contient le code source sur site web de la communauté **MultiCraft Fran
 ## A propos
 
 [Rejoignez la communauté](https://discord.gg/dPKca6E3a2)
+
 [Visitez le site](https://multicraft-fr.netlify.app)
 
 Le site à été codé avec Claude.
