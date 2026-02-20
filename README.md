@@ -1,16 +1,13 @@
 # Site web 
 
-Ce repo contient le code source sur site web de la communauté **MultiCraft France**
-
-> Note importante :
-> Cette communauté n'est **ni affiliée, ni autorisée** par MultiCraft Studio OÜ. La marque *MultiCraft* est et reste la propriété de l'entreprise MultiCraft Studio OÜ.
+Ce repo contient le code source sur site web du serveur **Frontières Oubliées**
 
 
 ## A propos
 
-[Rejoignez la communauté](https://discord.gg/dPKca6E3a2)
+[Rejoignez le Discord](https://discord.gg/dPKca6E3a2)
 
-[Visitez le site](https://multicraft-fr.netlify.app)
+[Visitez le site](https://frontieresoubliees.netlify.app)
 
 Le site à été codé avec Claude.
 
